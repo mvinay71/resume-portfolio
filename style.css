@@ -132,6 +132,7 @@ hr{
 
 
 
+
 /* media query */
 @media(max-width:490px){
     /* .navigation{
@@ -161,4 +162,5 @@ hr{
     .hero .hero-img{
         max-width: 200px;
     }
+   
 }
